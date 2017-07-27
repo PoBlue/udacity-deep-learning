@@ -1,6 +1,6 @@
 # udacity-deep-learning
 
-Udacity Deep Learning project
+Udacity Course: [Deep Learning Foundation](https://classroom.udacity.com/nanodegrees/nd101)
 
 ## Examples
 
